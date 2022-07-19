@@ -11,6 +11,7 @@ const MainMenu = ({ setScreen }) => {
         <img
           id="header-img"
           src="https://1000logos.net/wp-content/uploads/2021/08/Dungeons-and-Dragons-Logo-2014.png"
+          alt="Dungoes and Dragons"
         />
         <div className="menu-links">
           <h3
