@@ -47,3 +47,13 @@ width: 400px;
 height: auto;
 display: block;
 }
+
+.char-select-container{
+  display: flex;
+  justify-content: center;
+}
+
+.char-name, .class-select{
+  font-size: 1.5em;
+  text-align: center;
+}
